@@ -1,5 +1,4 @@
 import 'package:get/state_manager.dart';
-
 import '../widget/enum.dart';
 
 class BaseController extends GetxController {
